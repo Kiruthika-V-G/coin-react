@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/coin-react/static/css/main.014794f8.css",
+    "main.js": "/coin-react/static/js/main.85a0c3db.js",
+    "static/js/453.d72686cc.chunk.js": "/coin-react/static/js/453.d72686cc.chunk.js",
+    "static/media/tail.png": "/coin-react/static/media/tail.1e69caea490859ddc657.png",
+    "static/media/head.png": "/coin-react/static/media/head.028246af8910c6873f01.png",
+    "index.html": "/coin-react/index.html",
+    "main.014794f8.css.map": "/coin-react/static/css/main.014794f8.css.map",
+    "main.85a0c3db.js.map": "/coin-react/static/js/main.85a0c3db.js.map",
+    "453.d72686cc.chunk.js.map": "/coin-react/static/js/453.d72686cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.014794f8.css",
+    "static/js/main.85a0c3db.js"
+  ]
+}
